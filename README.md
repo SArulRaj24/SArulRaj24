@@ -21,37 +21,9 @@ I'm an AI-driven student who thrives on learning, innovation, and turning theory
 **Tools:** Git | GitHub | VS Code | Jupyter | Google Colab  
 **Cloud:** Microsoft Azure  
 
----
-
-## 💼 Projects
-
-🔹 [🔍 Personal porfolio](#)  
-*Developed a personal portfolio website to showcase my projects and skills using React JS. *  
 
 
 
-🔹 [💬 Enterprise Chatbot with LLaMA RAG](#)  
-*Created a Retrieval-Augmented Generation chatbot for answering ECS queries.*
-
----
-
-## 🏆 Achievements
-
-- 🥈 College Internal Hackathon - 2nd Place  
-- 🥈 Intra-department ML Competition - 2nd Place  
-- 📄 Presented paper on smart sensor-based waste management  
-
----
-
-## 📜 Certifications
-
-- Microsoft Certified: Azure Fundamentals  
-- Oracle AI Vector Search Professional  
-- Coursera: Supervised ML - Regression and Classification  
-- NPTEL: Python & Data Science (Elite + Silver)  
-- Hackerrank: Python (Basics), SQL (Basics)
-
----
 
 ## 🔗 Let's Connect!
 
