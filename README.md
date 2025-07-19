@@ -1,35 +1,18 @@
-# 👋 Hi, I'm Arulraj S!
-
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
-🎯 Passionate about AI, ML, Web Development, and Problem Solving  
-🎯 Open to Internships | AI/ML Projects | Front end Developer Roles  
-
----
-
-## 🧠 About Me
-
-I'm an AI-driven student who thrives on learning, innovation, and turning theory into real-world solutions. I love building AI models, solving problems on LeetCode, and developing front end applications. Currently pursuing B.Tech at R.M.D Engineering College with a CGPA of 8.33.
-
----
-
-## 🚀 Tech Stack
-
-**Languages:** Java | Python | C  
-**Web:** HTML | CSS | JavaScript  
-**Frameworks:** TensorFlow | Keras | PyTorch | Bootstrap  
-**Database:** SQL  
-**Tools:** Git | GitHub | VS Code | Jupyter | Google Colab  
-**Cloud:** Microsoft Azure  
+# 💫 About Me:
+🎓 B.Tech in Artificial Intelligence & Machine Learning<br>🎯 Passionate about AI, ML, Web Development, and Problem Solving<br>🎯 Open to Internships | AI/ML Projects | Front end Developer Roles<br>I'm an AI-driven student who thrives on learning, innovation, and turning theory into real-world solutions. I love building AI models, solving problems on LeetCode, and developing front end applications. Currently pursuing B.Tech at R.M.D Engineering College with a CGPA of 8.33.
 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SArulRaj24&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SArulRaj24&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SArulRaj24&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-## 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arulraj-s-b-tech)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/SArulRaj24)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/Arulraj24)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/Arulraj24)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SArulRaj24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SArulRaj24&icon=9&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
