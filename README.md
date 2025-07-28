@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Arulraj S
 🎓 B.Tech in Artificial Intelligence & Machine Learning<br>🎯 Passionate about AI, ML, Web Development, and Problem Solving<br>🎯 Open to Internships | AI/ML Projects | Front end Developer Roles
 
 # 💻 Tech Stack:
